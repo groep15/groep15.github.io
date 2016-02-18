@@ -1971,9 +1971,9 @@
 		.icon > .label {
 			display: none;
 		}
-    .sub::before(2){
+    .sub:before(2){
         content: "-";
-    }.subsub::before(2){
+    }.subsub:before(2){
         content: "-";
     }
 /* Header */
