@@ -1972,7 +1972,7 @@
 			display: none;
 		}
     .sub::before{
-        content: "    ";
+        content: "-";
     }
 /* Header */
 
